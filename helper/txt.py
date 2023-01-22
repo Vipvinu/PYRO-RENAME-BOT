@@ -67,7 +67,11 @@ Example:- /set_caption 📕 File Name: {filename}
 
 #⚠️ don't remove our credits 🙏😢😢
     DEV_TXT = """
-<b><u>Special Thanks & Developers</b></u> 
+<b><u>TAMIL HACKERS MOVIES </b></u> 
+ This is **Pro** TG renamer bot you can send multiple tasks at a time, 
+ Don't spam me 
+ 
+ Sorry, This project is Private repository 😔
 
 » 𝗦𝗢𝗨𝗥𝗖𝗘 𝗖𝗢𝗗𝗘 : 🔒🔒🔒🔒
 """
