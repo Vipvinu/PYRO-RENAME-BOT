@@ -31,6 +31,7 @@ class mr(object):
 ┣⪼ ⏳️ : {0}%
 ┣⪼ 🚀 : {3}/s
 ┣⪼ ⏱️ : {4}
+ **Thanks For using me** 
 ╰━━━━━━━━━━━━━━━➣ """
 
     ABOUT_TXT = """
@@ -69,9 +70,8 @@ Example:- /set_caption 📕 File Name: {filename}
     DEV_TXT = """
 <b><u>TAMIL HACKERS MOVIES </b></u> 
  This is **Pro** TG renamer bot you can send multiple tasks at a time, 
- Don't spam me 
+  
+𝙴𝚗𝚓𝚘𝚢 𝚋𝚛𝚞𝚑 😁 
  
- Sorry, This project is Private repository 😔
-
 » 𝗦𝗢𝗨𝗥𝗖𝗘 𝗖𝗢𝗗𝗘 : 🔒🔒🔒🔒
 """
