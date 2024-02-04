@@ -3,7 +3,7 @@ Pillow
 humanize
 hachoir
 motor
-git+https://github.com/TGExplore/pyrogram.git
+Pyrogram==2.0.106
 TgCrypto
 dnspython
 aiohttp 
